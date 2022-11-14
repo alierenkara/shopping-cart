@@ -1,0 +1,35 @@
+.guaranteeBadgeContainer {
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 8px;
+    padding: 4px 8px 4px 4px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.guaranteeBadgeText {
+    color:white;
+    font-size: 10px;
+    margin-top: 4px;
+}
+
+.almostNewProductBadgeContainer {
+    border-radius: 8px;
+    background-color: rgba(128,128,128, 0.2);
+    padding: 8px;
+}
+
+.almostNewProductBadgeText {
+    font-weight: bold;
+    color: rgba(0,0,0,0.7);
+}
+
+.ratingBadgeContainer {
+    background-color: orange;
+    border-radius: 8px;
+    padding: 4px 8px;
+}
+
+.ratingBadgeText {
+    font-weight: bold;
+    color: rgba(0,0,0,0.7);
+}

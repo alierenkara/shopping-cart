@@ -1,0 +1,30 @@
+.homeItemLink:hover {
+    cursor: pointer;
+    color:rgba(0,0,0,0.9);
+}
+
+.breadcrumbItemLink {
+    color:rgba(0,0,0,0.75);
+    text-decoration: none;
+}
+
+.breadcrumbItemLink:hover {
+    cursor: pointer;
+    color:rgba(0,0,0,0.9);
+    text-decoration: underline;
+}
+
+.breadcrumbItemLinkContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.breadcrumbContainer {
+    width: 600px;
+    white-space: nowrap;
+    overflow: auto hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

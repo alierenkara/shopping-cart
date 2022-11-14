@@ -1,3 +1,5 @@
+@import './variables.css';
+
 html,
 body {
   padding: 0;
@@ -24,3 +26,27 @@ a {
     background: black;
   }
 }
+
+.swiper {
+  border-radius: 8px;
+}
+
+.swiper-pagination {
+  background: rgba(0,0,0,0.1) !important;
+  width: 20% !important;
+  border-top-right-radius: 10px !important;
+  border-top-left-radius: 10px !important;
+  bottom: 0 !important;
+  align-self: center !important;
+  left: 40% !important;  
+}
+
+.swiper-pagination-bullet {
+  background: white !important;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active{
+  background: white !important;
+}
+

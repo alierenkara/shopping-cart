@@ -1,0 +1,12 @@
+.productInfoBadgeContainer {
+    margin-right: 8px;
+}
+
+.productInfoDescription {
+    font-size: 20px;
+    margin:16px 0px;
+}
+
+.productInfoSeller {
+    width: 70%;
+}

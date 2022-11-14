@@ -1,0 +1,13 @@
+:root {
+    --font-size-small: 0.75rem;
+    --font-size-medium: 1rem; 
+    --font-size-large: 1.25rem; 
+    --font-size-x-large: 1.5rem; 
+    --font-size-2x-large: 1.75rem;
+    --font-size-3x-large: 2rem;
+    --font-size-4x-large: 3rem; 
+    --font-size-5x-large: 4rem;
+    --swiper-pagination-bullet-width : 10px;
+    --swiper-pagination-bullet-height : 10px;
+  }
+  

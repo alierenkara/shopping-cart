@@ -1,0 +1,9 @@
+.additionalInfoItem {
+    display: flex;
+    margin: 8px 16px
+}
+
+.additionalInfoItemIcon {
+    margin-right: 16px;
+}
+

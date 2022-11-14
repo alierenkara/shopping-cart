@@ -1,0 +1,25 @@
+.sellerCardContainer {
+    display: flex;
+    border-radius: 8px;
+    border: 1px gray solid;
+    padding: 0px 4px;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.sellerCardContainer:hover {
+    cursor: pointer;
+}
+
+.sellerCardText {
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    line-height: 44px;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.sellerCardName {
+    font-weight: bold;
+}
